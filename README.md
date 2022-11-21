@@ -1,2 +1,2 @@
 # hospital-records-back
-This is CSCI341 Assignment 2
+This is back-end part of CSCI341 Assignment 2
